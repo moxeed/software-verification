@@ -11,17 +11,32 @@
             "id": "22124b1e70a2e913",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
+                "file": "To Read.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json"
+              "icon": "lucide-file",
+              "title": "To Read"
+            }
+          },
+          {
+            "id": "cc36b36ca950aa6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,19 +190,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbad31df8237f05e",
+  "active": "cc36b36ca950aa6e",
   "lastOpenFiles": [
     "To Read.md",
-    "2025-03-31.md",
-    "Untitled.canvas",
-    "Untitled.md",
-    "استعلام مدرک تحصیلی وزارت علوم تحقیقات و فناوری.pdf",
+    "Index.md",
+    "Untitled",
+    "Resources to Start.md",
     "1. People/Corina Păsăreanu.md",
     "1. Concepts.md",
     "2. Competitions.md",
-    "Resources to Start.md",
-    "1. People",
     "0. Survey/The Art, Science, and Engineering of Fuzzing A Survey.pdf",
+    "2025-03-31.md",
+    "Untitled.canvas",
+    "استعلام مدرک تحصیلی وزارت علوم تحقیقات و فناوری.pdf",
+    "1. People",
     "The Art, Science, and Engineering of Fuzzing A Survey.pdf",
     "The Art, Science, and Engineering of Fuzzing A Survey.pdf.crdownload",
     "0. Survey",

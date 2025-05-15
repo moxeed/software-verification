@@ -6,6 +6,9 @@ This Website Gives Awards to Most Novel Researchers and Could Be Used to Determi
 https://dl.acm.org/ccs
 The CCS(ACM Computing Classification System) is a General Categorization of Computer Science Topics and Could be Used to Hunt Articles in a Specific Subject or Learning about Different Research Options.
 
+https://ieeexplore.ieee.org/
+#TODO Find out about related journals and conferences 
+
 https://libguides.reading.ac.uk/
 It Teaches How to Use Academia Resources and the Summary is as Follows
 
@@ -16,6 +19,9 @@ A Complete Website Having All the Journals and Could be Used to Fast Reading of 
 
 https://www.webofscience.com/
 ???
+
+https://libguides.reading.ac.uk/computer-science/e-resources
+Introduces Resources for Computer Science Literature
 
 
 
